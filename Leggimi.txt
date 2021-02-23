@@ -1,0 +1,7 @@
+
+TI RICORDO DI INSERIRE I TUOI DATI PER L'ACCESSO FTP DOVE TROVI:
+-FTP.NOMEHOST
+-USERNAME
+-PASSWORD
+
+Ricorda che questo progetto è in beta e fa parte del nostro progetto MNbrain
